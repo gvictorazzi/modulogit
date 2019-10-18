@@ -7,3 +7,4 @@ estudo de git diff
 
 
 nova alteração
+alteração que será sincronizada no servidor git remoto
